@@ -1,4 +1,4 @@
-package ru.sberbank.lectures.lecture2;
+package ru.sberbank.homework.homework_2;
 
 public interface Person {
     boolean marry(Person person);

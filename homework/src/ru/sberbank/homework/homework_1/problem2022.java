@@ -1,4 +1,4 @@
-package ru.sberbank.problems.acm;
+package ru.sberbank.homework.homework_1;
 
 import java.util.Scanner;
 
