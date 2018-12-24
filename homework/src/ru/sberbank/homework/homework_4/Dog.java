@@ -3,10 +3,10 @@ package ru.sberbank.homework.homework_4;
 public class Dog {
     private String name;
     private Integer age;
-    private boolean sex;
+    private Boolean sex;
     private String bread;
 
-    public Dog(String name, Integer age, boolean sex, String bread) {
+    public Dog(String name, Integer age, Boolean sex, String bread) {
         this.name = name;
         this.age = age;
         this.sex = sex;
@@ -33,7 +33,7 @@ public class Dog {
         return sex;
     }
 
-    public void setSex(boolean sex) {
+    public void setSex(Boolean sex) {
         this.sex = sex;
     }
 

@@ -25,8 +25,8 @@ public class BeanUtils {
      * @param from Object which properties will be used to get values.
      */
     public static void assign(Object from, Object to) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
-        Method[] gettersListFrom = from.getClass().getMethods();
-        Method[] settersListTo = to.getClass().getMethods();
+        Method[] gettersListFrom = from.getClass().getDeclaredMethods();
+        Method[] settersListTo = to.getClass().getDeclaredMethods();
         for (Method methodGet : gettersListFrom) {
             String getterName = methodGet.getName().substring(3);
             boolean getType = methodGet.getName().contains("get");
@@ -39,7 +39,9 @@ public class BeanUtils {
                     Object gottenAttrType = gottenAttr.getClass();
 
                     Method mSet = to.getClass().getMethod("set" + setterName, (Class<?>) gottenAttrType);
-                    mSet.invoke(to, gottenAttr);
+                    mSet.invoke(to, gottenAttr);//to.setName(from.getName)
+                    //объект_класса.getClass() - используется для reflection класса
+                    //класс.class - тоже самое
                 }
             }
         }

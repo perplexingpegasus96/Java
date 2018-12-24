@@ -3,13 +3,13 @@ package ru.sberbank.homework.homework_4;
 public class Person {
     private String name;
     private Integer age;
-    private boolean sex;
+    private Boolean sex;
     private String birthplace;
     private Integer childrenNumber;
 
 //конструктор
 
-    public Person(String name, Integer age, boolean sex, String birthplace,
+    public Person(String name, Integer age, Boolean sex, String birthplace,
                    Integer childrenNumber) {
         this.name = name;
         this.age = age;
@@ -31,15 +31,15 @@ public class Person {
         return age;
     }
 
-    public void setAge(int age) {
+    public void setAge(Integer age) {
         this.age = age;
     }
 
-    public boolean isSex() {
+    public boolean getSex() {
         return sex;
     }
 
-    public void setSex(boolean sex) {
+    public void setSex(Boolean sex) {
         this.sex = sex;
     }
 
@@ -59,4 +59,14 @@ public class Person {
         this.childrenNumber = childrenNumber;
     }
 
+    @Override
+    public String toString() {
+        return "Dog{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", sex=" + sex +
+                ", bread='" + birthplace + '\'' +
+                ", childrenNumber='" + childrenNumber + '\'' +
+                '}';
+    }
 }
