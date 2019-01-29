@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7288e96e-eb24-4251-a8aa-27090b555f3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7288e96e-eb24-4251-a8aa-27090b555f3a" name="Default Changelist" comment="lecture#6 + homework#5 commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/CustomInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/HashmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/NumericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/UserCustomReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/PersonImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/PersonImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lectures/ru/sberbank/lectures/lecture2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lectures/ru/sberbank/lectures/lecture2/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lectures/ru/sberbank/lectures/lecture2/PersonImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2002.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2008.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2021.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2022.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2036.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_3/CollectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_3/CollectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ContextImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManagerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,39 +33,49 @@
     <session id="-904791166">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="40" />
+          <entry key="csv" value="2" />
+          <entry key="java" value="122" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="122" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="67" />
-          <entry key="java" value="9863" />
+          <entry key="dummy" value="113" />
+          <entry key="java" value="16655" />
+          <entry key="txt" value="411" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9863" />
-          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="JAVA" value="16655" />
+          <entry key="PLAIN_TEXT" value="524" />
         </counts>
       </usages-collector>
     </session>
@@ -100,27 +109,137 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-8609381">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="190" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="190" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="18" />
+          <entry key="java" value="14084" />
+          <entry key="txt" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="14084" />
+          <entry key="PLAIN_TEXT" value="47" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/UserCustomReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Person.java">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Writer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="42">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -134,44 +253,69 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getMethod(</find>
+      <find>setSex</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/problem2001.java" />
-        <option value="$PROJECT_DIR$/src/problem2002.java" />
-        <option value="$PROJECT_DIR$/src/problem2003.java" />
-        <option value="$PROJECT_DIR$/src/problem2020.java" />
-        <option value="$PROJECT_DIR$/src/problem2021.java" />
-        <option value="$PROJECT_DIR$/src/problem2022.java" />
-        <option value="$PROJECT_DIR$/src/problem2023.java" />
-        <option value="$PROJECT_DIR$/src/problem2036.java" />
-        <option value="$PROJECT_DIR$/src/problem2008.java" />
-        <option value="$PROJECT_DIR$/src/lecture2.java" />
-        <option value="$PROJECT_DIR$/lectures/src/lecture2.java" />
-        <option value="$PROJECT_DIR$/lectures/src/lecture2_2(Student).java" />
-        <option value="$PROJECT_DIR$/lectures/src/lecture2_1.java" />
-        <option value="$PROJECT_DIR$/lectures/src/lecture2_2.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2_1.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2_2.java" />
-        <option value="$PROJECT_DIR$/problems/src/ru/sberbank/problems/acm/problem2020.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/lecture2_1.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/lecture2_2.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Calculator.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/CalculatorImpl.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/CalcMain.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/MarriageImpl.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/MarriageMain.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Person.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/PersonImpl.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Main.java" />
-        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/problems/acm/PersonImpl.java" />
-        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/PersonImpl.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/classwork.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Person.java" />
-        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Main.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture6/Main.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture6/Person.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/test.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture8/Function.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/examPreparation/main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/examPreparation/Integer.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Dog.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Person.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Producer.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Sync.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Vol.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Gdfg.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture8/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/Incremenator.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/myException.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/Program.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/Task.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManager.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/examPreparation/Person.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/examPreparation/Hero.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/examPreparation/Main.java" />
+        <option value="$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/test.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Person.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/CallException.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Worker.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/Cat.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/Dog.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ThreadExample.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Context.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ContextImpl.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Worker.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManagerImpl.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/HashmapTest.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_3/CollectionUtils.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/Reader.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/CustomInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/Reader.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/Writer.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/UserCustomReader.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/NumericTest.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Main.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Task.java" />
+        <option value="$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Main.java" />
       </list>
     </option>
   </component>
@@ -182,84 +326,103 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="180" />
-    <option name="y" value="225" />
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
     <option name="width" value="1620" />
     <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Basic solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Basic solutions" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/swink_000/Desktop/мага предметы/Java/Basic solutions/homework/src/ru/sberbank/homework/homework_3/CountMap.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537539443605" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548754168615" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Принципы проектирования и дезайна ПО/Smart Home Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -272,6 +435,7 @@
       <recent name="C:\Users\swink_000\Desktop\мага предметы\Java\Basic solutions\Lesson 2" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.sberbank.homework.homework_5.exercise_2" />
       <recent name="ru.sberbank.lectures.lecture2" />
     </key>
   </component>
@@ -287,39 +451,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CalcMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.sberbank.lectures.lecture2.CalcMain" />
-      <module name="lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sberbank.problems.acm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.sberbank.lectures.lecture2.Introduction" />
-      <module name="lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sberbank.problems.acm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.sberbank.problems.acm.Main" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="HashmapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sberbank.homework.ExamPrepartion.HashmapTest" />
       <module name="homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.sberbank.problems.acm.*" />
+          <option name="PATTERN" value="ru.sberbank.homework.ExamPrepartion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sberbank.homework.homework_5.exercise_1.Main" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sberbank.homework.homework_5.exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sberbank.homework.homework_5.exercise_2.Main" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sberbank.homework.homework_5.exercise_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,11 +492,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.sberbank.lectures.lecture3.Main" />
-      <module name="lectures" />
+      <option name="MAIN_CLASS_NAME" value="ru.sberbank.homework.ExamPrepartion.Main" />
+      <module name="homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.sberbank.lectures.lecture3.*" />
+          <option name="PATTERN" value="ru.sberbank.homework.ExamPrepartion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,27 +504,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.sberbank.lectures.lecture2_2" />
-      <module name="lectures" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sberbank.homework.ThreadTest" />
+      <module name="homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sberbank.homework.ExamPrepartion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lecture2_2" />
-      <item itemvalue="Application.Introduction" />
-      <item itemvalue="Application.CalcMain" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.HashmapTest" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CalcMain" />
-        <item itemvalue="Application.Introduction" />
-        <item itemvalue="Application.lecture2_2" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.HashmapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -386,34 +556,85 @@
       <workItem from="1537289221795" duration="2854000" />
       <workItem from="1537300317195" duration="1075000" />
       <workItem from="1537437860164" duration="2251000" />
+      <workItem from="1538127403508" duration="6310000" />
+      <workItem from="1538318060172" duration="9677000" />
+      <workItem from="1538507352986" duration="809000" />
+      <workItem from="1538587119696" duration="616000" />
+      <workItem from="1538829308742" duration="490000" />
+      <workItem from="1539009267710" duration="3563000" />
+      <workItem from="1539259684179" duration="6799000" />
+      <workItem from="1539272342780" duration="470000" />
+      <workItem from="1539328856184" duration="22583000" />
+      <workItem from="1539613559362" duration="124000" />
+      <workItem from="1539770892230" duration="1434000" />
+      <workItem from="1539934800800" duration="13162000" />
+      <workItem from="1540280415904" duration="214000" />
+      <workItem from="1542360143085" duration="1531000" />
+      <workItem from="1545477401660" duration="8934000" />
+      <workItem from="1545502746715" duration="3962000" />
+      <workItem from="1545550585135" duration="18780000" />
+      <workItem from="1545633389660" duration="13774000" />
+      <workItem from="1547025673551" duration="596000" />
+      <workItem from="1547055571318" duration="1340000" />
+      <workItem from="1548159567372" duration="603000" />
+      <workItem from="1548327572993" duration="7897000" />
+      <workItem from="1548430284824" duration="12352000" />
+      <workItem from="1548500306323" duration="22552000" />
+      <workItem from="1548535659853" duration="7339000" />
+      <workItem from="1548588626118" duration="16961000" />
+      <workItem from="1548669153731" duration="16077000" />
+      <workItem from="1548751971942" duration="1520000" />
     </task>
+    <task id="LOCAL-00001" summary="problem 2056">
+      <created>1538587705845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538587705846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework_4 commit">
+      <created>1539945190002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539945190002</updated>
+    </task>
+    <task id="LOCAL-00003" summary="multithreading">
+      <created>1545650753736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545650753736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67271000" />
+    <option name="totallyTimeSpent" value="267740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-7" y="-7" width="1294" height="696" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30526993" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.67945206" visible="true" weight="0.28606158" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.32054794" side_tool="true" weight="0.26661265" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35935396" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32663316" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35638297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39716312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3280142" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32446808" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,6 +645,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15884861" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32663316" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37623763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32563257" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -431,60 +682,247 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem 2056" />
+    <MESSAGE value="lecture#6 + homework#5 commit" />
+    <MESSAGE value="homework_4 commit" />
+    <MESSAGE value="multithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="multithreading" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Introduction.java">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_3/CountMapImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+        <state relative-caret-position="294">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/MarriageImpl.java" />
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/CalcMain.java">
+    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Gdfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Vol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Sync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/multithreading/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/Cat.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.xml.crypto/org/jcp/xml/dsig/internal/dom/AbstractDOMSignatureMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="200" column="27" lean-forward="true" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="4683" column="69" selection-start-line="4683" selection-start-column="69" selection-end-line="4683" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="145" column="27" selection-start-line="145" selection-start-column="27" selection-end-line="145" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.corba/com/sun/corba/se/impl/ior/ObjectKeyTemplateBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="125" column="37" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="1502" column="53" lean-forward="true" selection-start-line="1502" selection-start-column="53" selection-end-line="1502" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="174" column="36" lean-forward="true" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_4/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="563" selection-start-line="563" selection-end-line="563" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="1429" column="7" lean-forward="true" selection-start-line="1429" selection-start-column="7" selection-end-line="1429" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ThreadExample.java" />
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ContextImpl.java" />
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/CallException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Worker.java" />
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="159" column="23" lean-forward="true" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19992">
+          <caret line="1006" column="25" selection-start-line="1006" selection-start-column="25" selection-end-line="1006" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4074">
+          <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_3/CollectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ThreadTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1051" column="35" selection-start-line="1051" selection-start-column="35" selection-end-line="1051" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="114" column="13" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/CustomInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/CalculatorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture2/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -492,129 +930,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2008.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2020.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2021.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2022.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2023.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_1/problem2036.java">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/PersonImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/Main.java">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/HashmapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_2/Person.java">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/NumericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/lectures/ru/sberbank/lectures/lecture3/Main.class">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/UserCustomReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#0#498#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Basic solutions/problem2001.class">
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/ExamPrepartion/Writer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_1/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ExecutionManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/src/ru/sberbank/homework/homework_5/exercise_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="e#0#402#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="48" column="30" lean-forward="true" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-          <folding>
-            <element signature="e#5877#5878#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/lectures/ru/sberbank/lectures/lecture3/Person.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <folding>
-            <element signature="e#0#720#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/src/ru/sberbank/lectures/lecture3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
         </state>
       </provider>
     </entry>

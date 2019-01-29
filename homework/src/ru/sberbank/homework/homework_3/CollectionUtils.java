@@ -13,7 +13,7 @@ public class CollectionUtils {
     }
 
     public static List newArrayList() {
-        return new ArrayList();//why
+        return new ArrayList();
     }
 
     public static <T> int indexOf(List<? extends T> source, Object o) {

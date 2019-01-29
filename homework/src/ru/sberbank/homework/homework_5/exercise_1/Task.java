@@ -2,32 +2,33 @@ package ru.sberbank.homework.homework_5.exercise_1;
 
 import java.util.concurrent.Callable;
 
-public class Task<T> {
-
+class Task<T> {
     private Callable<? extends T> callable;
-    private T result;
-    private boolean isFirstThread;
+    private T result = null;
 
-
-    public Task(Callable<? extends T> callable){
+    Task(Callable<? extends T> callable){
         this.callable = callable;
-        this.isFirstThread = true;
     }
 
-    public T get() throws InterruptedException{
-        synchronized (this){//синхронизируем процессы(когда один использует другие ждут)
-            if (isFirstThread){//первый поток который первый вызвал метод get
-                try{
-                    System.out.println(Thread.currentThread().getName() + " came first");
-                    result = callable.call();
-                    isFirstThread = false;
-                } catch (Exception e) {
-                    throw new CallException("Call Exception!");
+    T get() throws InterruptedException {
+        if (result == null) {
+            //очередь из тредов
+            synchronized (this) {//double check from lectures
+                //если к этому моменту результат уже посчитан, не входим в if
+                if (result == null) {
+                    try {
+                        result = callable.call();
+                        String firstThread = Thread.currentThread().getName();
+                        System.out.println(firstThread + " was first!");
+                        return result;
+                    } catch (Exception e) {
+                        throw new CallException("Exception in call()");
+                    }
                 }
             }
         }
-
+        System.out.println("Result now is just gathered by "
+                    + Thread.currentThread().getName());
         return result;
     }
-
 }
