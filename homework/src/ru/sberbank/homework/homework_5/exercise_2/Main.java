@@ -14,10 +14,9 @@ public class Main {
         for (int i = 0;i < 1000; i++){
             tasks[i] = (() -> {
                 double x = 1000;
-                double j = 0;
                 double b;
                 while (x != 0){
-                    b = Math.pow(Math.cos(j), 2) + Math.pow(Math.sin(j), 2);
+                    b = Math.pow(Math.cos(x), 2) + Math.pow(Math.sin(x), 2);
                     x--;
                 }
             });
